@@ -18,6 +18,7 @@ Diagramas simples do portal acadêmico, separados por tipo. Cada desenho identif
 - `diagramas/classes/` - modelo de classes e domínio.
 - `diagramas/atividades/` - fluxo de matrícula.
 - `diagramas/sequencia/` - matrícula e consulta de notas.
+- `prints/` - quatro capturas do quadro Trello em ordem das etapas.
 - `output/pdf/pp1-diagramas-uml.pdf` - versão consolidada para leitura e impressão.
 
 As sequências mostram o fluxo principal. Pré-requisitos, vagas, conflitos de horário e o perfil da Secretaria/Coordenação devem ser conferidos com o enunciado e com o grupo.
