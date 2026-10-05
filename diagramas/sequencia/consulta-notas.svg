@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1000" viewBox="0 0 1500 1000">
+<title>Sequência de consulta de notas</title>
+<desc>Responsável: Pedro Henrique Almeida Durães. Resposta do portal quando as notas estão disponíveis ou pendentes</desc>
+<rect x="0" y="0" width="1500" height="1000" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="0" y="0" width="1500" height="112" rx="0" fill="#17324D" stroke="#17324D" stroke-width="0"/>
+<text x="46" y="47.0" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="start">Sequência de consulta de notas</text>
+<text x="46" y="81.0" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#D8E7F2" text-anchor="start">Resposta do portal quando as notas estão disponíveis ou pendentes</text>
+<rect x="1010" y="22" width="448" height="68" rx="14" fill="#244E68" stroke="#4B7891" stroke-width="1.5"/>
+<text x="1028" y="49.0" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="start">Responsável: Pedro Henrique Almeida Durães</text>
+<text x="1028" y="73.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#D8E7F2" text-anchor="start">Trello #37</text>
+<text x="42" y="980.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#5E7183" text-anchor="start">PP1 | Modelagem UML | Proposta baseada nos cartões do projeto</text>
+<rect x="70.0" y="145" width="220" height="64" rx="12" fill="#EAF4FF" stroke="#245B83" stroke-width="2"/>
+<text x="180" y="174.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#17324D" text-anchor="middle">Aluno</text>
+<line x1="180" y1="209" x2="180" y2="935" stroke="#91A4B4" stroke-width="1.5" stroke-dasharray="6,6"/>
+<rect x="450.0" y="145" width="220" height="64" rx="12" fill="#EAF4FF" stroke="#245B83" stroke-width="2"/>
+<text x="560" y="174.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#17324D" text-anchor="middle">Portal web</text>
+<line x1="560" y1="209" x2="560" y2="935" stroke="#91A4B4" stroke-width="1.5" stroke-dasharray="6,6"/>
+<rect x="830.0" y="145" width="220" height="64" rx="12" fill="#EAF4FF" stroke="#245B83" stroke-width="2"/>
+<text x="940" y="174.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#17324D" text-anchor="middle">Serviço de notas</text>
+<line x1="940" y1="209" x2="940" y2="935" stroke="#91A4B4" stroke-width="1.5" stroke-dasharray="6,6"/>
+<rect x="1210.0" y="145" width="220" height="64" rx="12" fill="#EAF4FF" stroke="#245B83" stroke-width="2"/>
+<text x="1320" y="165.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#17324D" text-anchor="middle">Repositório</text>
+<text x="1320" y="183.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#17324D" text-anchor="middle">acadêmico</text>
+<line x1="1320" y1="209" x2="1320" y2="935" stroke="#91A4B4" stroke-width="1.5" stroke-dasharray="6,6"/>
+<line x1="180" y1="255" x2="560" y2="255" stroke="#245B83" stroke-width="2"/>
+<polygon points="560,255 546.0,249.0 546.0,261.0" fill="#245B83" stroke="#245B83" stroke-width="2" stroke-linejoin="round"/>
+<text x="370.0" y="246.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Consultar notas do período</text>
+<line x1="560" y1="315" x2="940" y2="315" stroke="#245B83" stroke-width="2"/>
+<polygon points="940,315 926.0,309.0 926.0,321.0" fill="#245B83" stroke="#245B83" stroke-width="2" stroke-linejoin="round"/>
+<text x="750.0" y="306.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Buscar notas do aluno</text>
+<line x1="940" y1="375" x2="1320" y2="375" stroke="#245B83" stroke-width="2"/>
+<polygon points="1320,375 1306.0,369.0 1306.0,381.0" fill="#245B83" stroke="#245B83" stroke-width="2" stroke-linejoin="round"/>
+<text x="1130.0" y="366.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Consultar matrículas e notas publicadas</text>
+<line x1="1320" y1="435" x2="940" y2="435" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
+<polygon points="940,435 954.0,441.0 954.0,429.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
+<text x="1130.0" y="426.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Retornar notas e situação</text>
+<rect x="110" y="495" width="1330" height="350" rx="0" fill="none" stroke="#52697D" stroke-width="2"/>
+<rect x="110" y="495" width="55" height="30" rx="0" fill="#EAF4FF" stroke="#52697D" stroke-width="1.5"/>
+<text x="137" y="516.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#17324D" text-anchor="middle">alt</text>
+<text x="185" y="518.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#5E7183" text-anchor="start">[notas publicadas]</text>
+<line x1="940" y1="570" x2="560" y2="570" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
+<polygon points="560,570 574.0,576.0 574.0,564.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
+<text x="750.0" y="561.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Retornar notas por disciplina e etapa</text>
+<line x1="560" y1="625" x2="180" y2="625" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
+<polygon points="180,625 194.0,631.0 194.0,619.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
+<text x="370.0" y="616.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Exibir notas</text>
+<line x1="110" y1="670" x2="1440" y2="670" stroke="#52697D" stroke-width="1.5" stroke-dasharray="6,5"/>
+<text x="185" y="695.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#5E7183" text-anchor="start">[notas pendentes]</text>
+<line x1="940" y1="735" x2="560" y2="735" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
+<polygon points="560,735 574.0,741.0 574.0,729.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
+<text x="750.0" y="726.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Informar lançamento pendente</text>
+<line x1="560" y1="790" x2="180" y2="790" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
+<polygon points="180,790 194.0,796.0 194.0,784.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
+<text x="370.0" y="781.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Exibir aviso de pendência</text>
+</svg>

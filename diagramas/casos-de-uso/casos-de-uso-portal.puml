@@ -1,0 +1,52 @@
+@startuml
+title Portal Acadêmico da Faculdade - Casos de uso
+left to right direction
+skinparam backgroundColor #FFFFFF
+skinparam shadowing false
+skinparam usecase {
+  BackgroundColor #EAF4FF
+  BorderColor #245B83
+  ArrowColor #435466
+}
+skinparam actor {
+  BorderColor #17324D
+  FontColor #17324D
+}
+skinparam packageStyle rectangle
+
+actor Aluno
+actor Professor
+actor "Secretaria / Coordenação" as Secretaria
+
+rectangle "Portal Acadêmico da Faculdade" {
+  usecase "Autenticar usuário" as UC_Login
+  usecase "Realizar matrícula" as UC_Matricula
+  usecase "Consultar notas" as UC_Notas
+  usecase "Consultar calendário\ne avisos" as UC_Calendario
+  usecase "Consultar turmas" as UC_Turmas
+  usecase "Lançar ou atualizar notas" as UC_LancarNotas
+  usecase "Gerenciar turmas\ne disciplinas" as UC_GerenciarOferta
+  usecase "Gerenciar calendário\ne avisos" as UC_GerenciarComunicados
+}
+
+Aluno -- UC_Login
+Aluno -- UC_Matricula
+Aluno -- UC_Notas
+Aluno -- UC_Calendario
+Professor -- UC_Login
+Professor -- UC_Turmas
+Professor -- UC_LancarNotas
+Secretaria -- UC_Login
+Secretaria -- UC_GerenciarOferta
+Secretaria -- UC_GerenciarComunicados
+
+note bottom of UC_Matricula
+  A validação considera regras acadêmicas configuradas,
+  como pré-requisitos, vagas e conflitos de horário.
+end note
+
+legend bottom
+  Responsável pela modelagem: Felipe Rafael
+  Referência no quadro: cartão 39 - documentar regras de negócio e condições dos casos de uso
+endlegend
+@enduml
