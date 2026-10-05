@@ -1,121 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="1190" viewBox="0 0 1680 1190">
-<title>Modelo de domínio e classes</title>
-<desc>Responsável: Andrei Albuquerque. Estrutura acadêmica, vínculos e dados consultados pelo portal</desc>
-<rect x="0" y="0" width="1680" height="1190" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="0" y="0" width="1680" height="112" rx="0" fill="#17324D" stroke="#17324D" stroke-width="0"/>
-<text x="46" y="47.0" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="start">Modelo de domínio e classes</text>
-<text x="46" y="81.0" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#D8E7F2" text-anchor="start">Estrutura acadêmica, vínculos e dados consultados pelo portal</text>
-<rect x="1190" y="22" width="448" height="68" rx="14" fill="#244E68" stroke="#4B7891" stroke-width="1.5"/>
-<text x="1208" y="49.0" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="start">Responsável: Andrei Albuquerque</text>
-<text x="1208" y="73.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#D8E7F2" text-anchor="start">Trello #38</text>
-<text x="42" y="1170.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#5E7183" text-anchor="start">PP1 | Modelagem UML | Proposta baseada nos cartões do projeto</text>
-<line x1="835" y1="290" x2="835" y2="322" stroke="#65798C" stroke-width="2"/>
-<line x1="770" y1="322" x2="1410" y2="322" stroke="#65798C" stroke-width="2"/>
-<line x1="770" y1="355" x2="770" y2="322" stroke="#65798C" stroke-width="2"/>
-<line x1="1090" y1="355" x2="1090" y2="322" stroke="#65798C" stroke-width="2"/>
-<line x1="1410" y1="355" x2="1410" y2="322" stroke="#65798C" stroke-width="2"/>
-<line x1="835" y1="322" x2="835" y2="290" stroke="#65798C" stroke-width="2"/>
-<polygon points="835,290 829.0,304.0 841.0,304.0" fill="#FFFFFF" stroke="#65798C" stroke-width="2" stroke-linejoin="round"/>
-<line x1="230" y1="650" x2="350" y2="650" stroke="#65798C" stroke-width="2"/>
-<line x1="550" y1="650" x2="670" y2="650" stroke="#65798C" stroke-width="2"/>
-<line x1="870" y1="650" x2="990" y2="650" stroke="#65798C" stroke-width="2"/>
-<line x1="1190" y1="650" x2="1310" y2="650" stroke="#65798C" stroke-width="2"/>
-<text x="235" y="635.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#5E7183" text-anchor="start">1</text>
-<text x="305" y="635.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#5E7183" text-anchor="start">1..*</text>
-<text x="555" y="635.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#5E7183" text-anchor="start">1</text>
-<text x="625" y="635.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#5E7183" text-anchor="start">0..*</text>
-<text x="875" y="635.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#5E7183" text-anchor="start">1</text>
-<text x="945" y="635.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#5E7183" text-anchor="start">0..*</text>
-<text x="1195" y="635.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#5E7183" text-anchor="start">1</text>
-<text x="1265" y="635.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#5E7183" text-anchor="start">0..*</text>
-<text x="290" y="674.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#5E7183" text-anchor="middle">compõe</text>
-<text x="610" y="674.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#5E7183" text-anchor="middle">é ofertada em</text>
-<text x="930" y="674.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#5E7183" text-anchor="middle">recebe</text>
-<text x="1250" y="674.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#5E7183" text-anchor="middle">reúne</text>
-<line x1="1090" y1="465" x2="1090" y2="615" stroke="#65798C" stroke-width="2"/>
-<text x="1105" y="525.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#5E7183" text-anchor="start">realiza</text>
-<line x1="770" y1="465" x2="770" y2="615" stroke="#65798C" stroke-width="2"/>
-<text x="782" y="525.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#5E7183" text-anchor="start">ministra</text>
-<line x1="1545" y1="412" x2="1625" y2="412" stroke="#65798C" stroke-width="2"/>
-<line x1="1625" y1="412" x2="1625" y2="930" stroke="#65798C" stroke-width="2"/>
-<line x1="1625" y1="930" x2="1520" y2="930" stroke="#65798C" stroke-width="2"/>
-<polygon points="1520,930 1534.0,936.0 1534.0,924.0" fill="#FFFFFF" stroke="#65798C" stroke-width="2" stroke-linejoin="round"/>
-<text x="1580" y="885.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#5E7183" text-anchor="middle">publica</text>
-<line x1="1545" y1="412" x2="1650" y2="412" stroke="#65798C" stroke-width="2"/>
-<line x1="1650" y1="412" x2="1650" y2="1040" stroke="#65798C" stroke-width="2"/>
-<line x1="1650" y1="1040" x2="710" y2="1040" stroke="#65798C" stroke-width="2"/>
-<line x1="600" y1="1040" x2="600" y2="1010" stroke="#65798C" stroke-width="2"/>
-<polygon points="600,1010 594.0,1024.0 606.0,1024.0" fill="#FFFFFF" stroke="#65798C" stroke-width="2" stroke-linejoin="round"/>
-<text x="1120" y="1030.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#5E7183" text-anchor="middle">mantém calendário</text>
-<rect x="660" y="150" width="350" height="140" rx="8" fill="#F4F8FC" stroke="#245B83" stroke-width="2"/>
-<rect x="660" y="150" width="350" height="42" rx="8" fill="#DCECF8" stroke="#245B83" stroke-width="1.5"/>
-<rect x="660" y="184" width="350" height="8" rx="0" fill="#DCECF8" stroke="none" stroke-width="0"/>
-<text x="835.0" y="168.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#5E7183" text-anchor="middle">&lt;&lt;abstrata&gt;&gt;</text>
-<text x="835.0" y="188.0" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#17324D" text-anchor="middle">Usuario</text>
-<text x="675" y="217" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">id: UUID</text>
-<text x="675" y="239" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">nome: texto</text>
-<text x="675" y="261" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">email: texto</text>
-<rect x="970" y="355" width="240" height="110" rx="8" fill="#F4F8FC" stroke="#245B83" stroke-width="2"/>
-<rect x="970" y="355" width="240" height="42" rx="8" fill="#DCECF8" stroke="#245B83" stroke-width="1.5"/>
-<rect x="970" y="389" width="240" height="8" rx="0" fill="#DCECF8" stroke="none" stroke-width="0"/>
-<text x="1090.0" y="382.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#17324D" text-anchor="middle">Aluno</text>
-<text x="985" y="425" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">matricula: texto</text>
-<rect x="650" y="355" width="240" height="110" rx="8" fill="#F4F8FC" stroke="#245B83" stroke-width="2"/>
-<rect x="650" y="355" width="240" height="42" rx="8" fill="#DCECF8" stroke="#245B83" stroke-width="1.5"/>
-<rect x="650" y="389" width="240" height="8" rx="0" fill="#DCECF8" stroke="none" stroke-width="0"/>
-<text x="770.0" y="382.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#17324D" text-anchor="middle">Professor</text>
-<text x="665" y="425" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">registro: texto</text>
-<rect x="1275" y="355" width="270" height="110" rx="8" fill="#F4F8FC" stroke="#245B83" stroke-width="2"/>
-<rect x="1275" y="355" width="270" height="42" rx="8" fill="#DCECF8" stroke="#245B83" stroke-width="1.5"/>
-<rect x="1275" y="389" width="270" height="8" rx="0" fill="#DCECF8" stroke="none" stroke-width="0"/>
-<text x="1410.0" y="382.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#17324D" text-anchor="middle">Secretaria</text>
-<text x="1290" y="425" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">setor: texto</text>
-<rect x="30" y="615" width="200" height="165" rx="8" fill="#F4F8FC" stroke="#245B83" stroke-width="2"/>
-<rect x="30" y="615" width="200" height="42" rx="8" fill="#DCECF8" stroke="#245B83" stroke-width="1.5"/>
-<rect x="30" y="649" width="200" height="8" rx="0" fill="#DCECF8" stroke="none" stroke-width="0"/>
-<text x="130.0" y="642.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#17324D" text-anchor="middle">Curso</text>
-<text x="45" y="685" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">id: UUID</text>
-<text x="45" y="707" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">codigo: texto</text>
-<text x="45" y="729" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">nome: texto</text>
-<rect x="350" y="615" width="200" height="165" rx="8" fill="#F4F8FC" stroke="#245B83" stroke-width="2"/>
-<rect x="350" y="615" width="200" height="42" rx="8" fill="#DCECF8" stroke="#245B83" stroke-width="1.5"/>
-<rect x="350" y="649" width="200" height="8" rx="0" fill="#DCECF8" stroke="none" stroke-width="0"/>
-<text x="450.0" y="642.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#17324D" text-anchor="middle">Disciplina</text>
-<text x="365" y="685" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">id: UUID</text>
-<text x="365" y="707" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">codigo: texto</text>
-<text x="365" y="729" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">nome: texto</text>
-<text x="365" y="751" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">cargaHoraria: inteiro</text>
-<rect x="670" y="615" width="200" height="165" rx="8" fill="#F4F8FC" stroke="#245B83" stroke-width="2"/>
-<rect x="670" y="615" width="200" height="42" rx="8" fill="#DCECF8" stroke="#245B83" stroke-width="1.5"/>
-<rect x="670" y="649" width="200" height="8" rx="0" fill="#DCECF8" stroke="none" stroke-width="0"/>
-<text x="770.0" y="642.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#17324D" text-anchor="middle">Turma</text>
-<text x="685" y="685" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">id: UUID</text>
-<text x="685" y="707" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">periodo: texto</text>
-<text x="685" y="729" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">status: StatusTurma</text>
-<rect x="990" y="615" width="200" height="165" rx="8" fill="#F4F8FC" stroke="#245B83" stroke-width="2"/>
-<rect x="990" y="615" width="200" height="42" rx="8" fill="#DCECF8" stroke="#245B83" stroke-width="1.5"/>
-<rect x="990" y="649" width="200" height="8" rx="0" fill="#DCECF8" stroke="none" stroke-width="0"/>
-<text x="1090.0" y="642.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#17324D" text-anchor="middle">Matricula</text>
-<text x="1005" y="685" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">id: UUID</text>
-<text x="1005" y="707" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">data: data</text>
-<text x="1005" y="729" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">status: StatusMatricula</text>
-<rect x="1310" y="615" width="200" height="165" rx="8" fill="#F4F8FC" stroke="#245B83" stroke-width="2"/>
-<rect x="1310" y="615" width="200" height="42" rx="8" fill="#DCECF8" stroke="#245B83" stroke-width="1.5"/>
-<rect x="1310" y="649" width="200" height="8" rx="0" fill="#DCECF8" stroke="none" stroke-width="0"/>
-<text x="1410.0" y="642.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#17324D" text-anchor="middle">Nota</text>
-<text x="1325" y="685" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">id: UUID</text>
-<text x="1325" y="707" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">etapa: texto</text>
-<text x="1325" y="729" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">valor: decimal</text>
-<rect x="450" y="870" width="300" height="140" rx="8" fill="#F4F8FC" stroke="#245B83" stroke-width="2"/>
-<rect x="450" y="870" width="300" height="42" rx="8" fill="#DCECF8" stroke="#245B83" stroke-width="1.5"/>
-<rect x="450" y="904" width="300" height="8" rx="0" fill="#DCECF8" stroke="none" stroke-width="0"/>
-<text x="600.0" y="897.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#17324D" text-anchor="middle">EventoAcademico</text>
-<text x="465" y="940" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">titulo: texto</text>
-<text x="465" y="962" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">inicio/fim: dataHora</text>
-<rect x="1300" y="870" width="220" height="140" rx="8" fill="#F4F8FC" stroke="#245B83" stroke-width="2"/>
-<rect x="1300" y="870" width="220" height="42" rx="8" fill="#DCECF8" stroke="#245B83" stroke-width="1.5"/>
-<rect x="1300" y="904" width="220" height="8" rx="0" fill="#DCECF8" stroke="none" stroke-width="0"/>
-<text x="1410.0" y="897.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#17324D" text-anchor="middle">Aviso</text>
-<text x="1315" y="940" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">titulo: texto</text>
-<text x="1315" y="962" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="start">publicadoEm: dataHora</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="850" viewBox="0 0 1500 850">
+<title>Diagrama de classes</title>
+<desc>Responsável: Andrei Albuquerque. </desc>
+<rect x="0" y="0" width="1500" height="850" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="750.0" y="40.0" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111111" text-anchor="middle">Diagrama de classes</text>
+<text x="750.0" y="65.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#555555" text-anchor="middle">Responsável: Andrei Albuquerque</text>
+<line x1="750" y1="240" x2="750" y2="270" stroke="#333333" stroke-width="1.5"/>
+<line x1="460" y1="270" x2="1040" y2="270" stroke="#333333" stroke-width="1.5"/>
+<line x1="460" y1="300" x2="460" y2="270" stroke="#333333" stroke-width="1.5"/>
+<line x1="1040" y1="300" x2="1040" y2="270" stroke="#333333" stroke-width="1.5"/>
+<line x1="750" y1="270" x2="750" y2="240" stroke="#333333" stroke-width="1.5"/>
+<polygon points="750,240 744.0,254.0 756.0,254.0" fill="#FFFFFF" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="280" y1="565" x2="350" y2="565" stroke="#333333" stroke-width="1.5"/>
+<line x1="590" y1="565" x2="670" y2="565" stroke="#333333" stroke-width="1.5"/>
+<line x1="890" y1="565" x2="960" y2="565" stroke="#333333" stroke-width="1.5"/>
+<line x1="1180" y1="565" x2="1260" y2="565" stroke="#333333" stroke-width="1.5"/>
+<text x="315" y="553.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#555555" text-anchor="middle">compõe</text>
+<text x="630" y="553.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#555555" text-anchor="middle">ofertada em</text>
+<text x="925" y="553.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#555555" text-anchor="middle">recebe</text>
+<text x="1220" y="553.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#555555" text-anchor="middle">gera</text>
+<line x1="460" y1="410" x2="460" y2="450" stroke="#333333" stroke-width="1.5"/>
+<line x1="460" y1="450" x2="780" y2="450" stroke="#333333" stroke-width="1.5"/>
+<line x1="780" y1="450" x2="780" y2="500" stroke="#333333" stroke-width="1.5"/>
+<text x="620" y="439.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#555555" text-anchor="middle">ministra</text>
+<line x1="1040" y1="410" x2="1040" y2="500" stroke="#333333" stroke-width="1.5"/>
+<text x="1055" y="465.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#555555" text-anchor="start">realiza</text>
+<rect x="600" y="120" width="300" height="120" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<rect x="600" y="120" width="300" height="42" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.5"/>
+<rect x="600" y="154" width="300" height="8" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="750.0" y="147.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111111" text-anchor="middle">Usuário</text>
+<text x="615" y="190" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#111111" text-anchor="start">nome</text>
+<text x="615" y="212" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#111111" text-anchor="start">email</text>
+<rect x="350" y="300" width="220" height="110" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<rect x="350" y="300" width="220" height="42" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.5"/>
+<rect x="350" y="334" width="220" height="8" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="460.0" y="327.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111111" text-anchor="middle">Professor</text>
+<rect x="930" y="300" width="220" height="110" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<rect x="930" y="300" width="220" height="42" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.5"/>
+<rect x="930" y="334" width="220" height="8" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="1040.0" y="327.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111111" text-anchor="middle">Aluno</text>
+<rect x="60" y="500" width="220" height="130" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<rect x="60" y="500" width="220" height="42" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.5"/>
+<rect x="60" y="534" width="220" height="8" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="170.0" y="527.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111111" text-anchor="middle">Curso</text>
+<text x="75" y="570" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#111111" text-anchor="start">nome</text>
+<rect x="350" y="500" width="240" height="130" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<rect x="350" y="500" width="240" height="42" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.5"/>
+<rect x="350" y="534" width="240" height="8" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="470.0" y="527.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111111" text-anchor="middle">Disciplina</text>
+<text x="365" y="570" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#111111" text-anchor="start">nome</text>
+<text x="365" y="592" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#111111" text-anchor="start">carga horária</text>
+<rect x="670" y="500" width="220" height="130" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<rect x="670" y="500" width="220" height="42" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.5"/>
+<rect x="670" y="534" width="220" height="8" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="780.0" y="527.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111111" text-anchor="middle">Turma</text>
+<text x="685" y="570" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#111111" text-anchor="start">período</text>
+<text x="685" y="592" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#111111" text-anchor="start">status</text>
+<rect x="960" y="500" width="220" height="130" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<rect x="960" y="500" width="220" height="42" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.5"/>
+<rect x="960" y="534" width="220" height="8" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="1070.0" y="527.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111111" text-anchor="middle">Matrícula</text>
+<text x="975" y="570" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#111111" text-anchor="start">data</text>
+<text x="975" y="592" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#111111" text-anchor="start">status</text>
+<rect x="1260" y="500" width="200" height="130" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="2"/>
+<rect x="1260" y="500" width="200" height="42" rx="8" fill="#FFFFFF" stroke="#222222" stroke-width="1.5"/>
+<rect x="1260" y="534" width="200" height="8" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="1360.0" y="527.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111111" text-anchor="middle">Nota</text>
+<text x="1275" y="570" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#111111" text-anchor="start">etapa</text>
+<text x="1275" y="592" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#111111" text-anchor="start">valor</text>
 </svg>

@@ -2,56 +2,49 @@
 <title>Casos de uso do portal acadêmico</title>
 <desc>Responsável: Felipe Rafael. Atores e funcionalidades centrais do site da faculdade</desc>
 <rect x="0" y="0" width="1500" height="1060" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="0" y="0" width="1500" height="112" rx="0" fill="#17324D" stroke="#17324D" stroke-width="0"/>
-<text x="46" y="47.0" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="start">Casos de uso do portal acadêmico</text>
-<text x="46" y="81.0" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#D8E7F2" text-anchor="start">Atores e funcionalidades centrais do site da faculdade</text>
-<rect x="1010" y="22" width="448" height="68" rx="14" fill="#244E68" stroke="#4B7891" stroke-width="1.5"/>
-<text x="1028" y="49.0" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="start">Responsável: Felipe Rafael</text>
-<text x="1028" y="73.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#D8E7F2" text-anchor="start">Trello #39</text>
-<text x="42" y="1040.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#5E7183" text-anchor="start">PP1 | Modelagem UML | Proposta baseada nos cartões do projeto</text>
-<rect x="230" y="145" width="1040" height="760" rx="20" fill="#FBFDFF" stroke="#245B83" stroke-width="2.5"/>
-<text x="750" y="184.0" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#17324D" text-anchor="middle">Portal Acadêmico da Faculdade</text>
-<line x1="133" y1="500" x2="350" y2="425" stroke="#65798C" stroke-width="1.8"/>
-<line x1="133" y1="500" x2="350" y2="585" stroke="#65798C" stroke-width="1.8"/>
-<line x1="133" y1="500" x2="335" y2="745" stroke="#65798C" stroke-width="1.8"/>
-<line x1="1367" y1="423" x2="1150" y2="425" stroke="#65798C" stroke-width="1.8"/>
-<line x1="1367" y1="423" x2="1150" y2="585" stroke="#65798C" stroke-width="1.8"/>
-<line x1="1367" y1="753" x2="1165" y2="745" stroke="#65798C" stroke-width="1.8"/>
-<ellipse cx="750.0" cy="270.0" rx="135.0" ry="44.0" fill="#EAF4FF" stroke="#245B83" stroke-width="2.2"/>
-<text x="750" y="277.14" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#233548" text-anchor="middle">Autenticar usuário</text>
-<ellipse cx="500.0" cy="425.0" rx="150.0" ry="46.0" fill="#EAF4FF" stroke="#245B83" stroke-width="2.2"/>
-<text x="500" y="432.14" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#233548" text-anchor="middle">Realizar matrícula</text>
-<ellipse cx="500.0" cy="585.0" rx="150.0" ry="46.0" fill="#EAF4FF" stroke="#245B83" stroke-width="2.2"/>
-<text x="500" y="592.14" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#233548" text-anchor="middle">Consultar notas</text>
-<ellipse cx="500.0" cy="745.0" rx="165.0" ry="46.0" fill="#EAF4FF" stroke="#245B83" stroke-width="2.2"/>
-<text x="500" y="739.8" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#233548" text-anchor="middle">Consultar calendário</text>
-<text x="500" y="763.8" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#233548" text-anchor="middle">e avisos</text>
-<ellipse cx="1000.0" cy="425.0" rx="150.0" ry="46.0" fill="#EAF4FF" stroke="#245B83" stroke-width="2.2"/>
-<text x="1000" y="432.14" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#233548" text-anchor="middle">Consultar turmas</text>
-<ellipse cx="1000.0" cy="585.0" rx="150.0" ry="46.0" fill="#EAF4FF" stroke="#245B83" stroke-width="2.2"/>
-<text x="1000" y="591.8" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#233548" text-anchor="middle">Lançar ou atualizar notas</text>
-<ellipse cx="1000.0" cy="745.0" rx="165.0" ry="46.0" fill="#EAF4FF" stroke="#245B83" stroke-width="2.2"/>
-<text x="1000" y="740.32" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#233548" text-anchor="middle">Gerenciar turmas, disciplinas,</text>
-<text x="1000" y="761.9200000000001" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#233548" text-anchor="middle">calendário e avisos</text>
-<ellipse cx="100.0" cy="442.0" rx="17.0" ry="17.0" fill="#FFFFFF" stroke="#17324D" stroke-width="3"/>
-<line x1="100" y1="459" x2="100" y2="516" stroke="#17324D" stroke-width="3"/>
-<line x1="71" y1="479" x2="129" y2="479" stroke="#17324D" stroke-width="3"/>
-<line x1="100" y1="516" x2="73" y2="552" stroke="#17324D" stroke-width="3"/>
-<line x1="100" y1="516" x2="127" y2="552" stroke="#17324D" stroke-width="3"/>
-<text x="100" y="578.0" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17324D" text-anchor="middle">Aluno</text>
-<ellipse cx="1400.0" cy="367.0" rx="17.0" ry="17.0" fill="#FFFFFF" stroke="#17324D" stroke-width="3"/>
-<line x1="1400" y1="384" x2="1400" y2="441" stroke="#17324D" stroke-width="3"/>
-<line x1="1371" y1="404" x2="1429" y2="404" stroke="#17324D" stroke-width="3"/>
-<line x1="1400" y1="441" x2="1373" y2="477" stroke="#17324D" stroke-width="3"/>
-<line x1="1400" y1="441" x2="1427" y2="477" stroke="#17324D" stroke-width="3"/>
-<text x="1400" y="503.0" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17324D" text-anchor="middle">Professor</text>
-<ellipse cx="1400.0" cy="697.0" rx="17.0" ry="17.0" fill="#FFFFFF" stroke="#17324D" stroke-width="3"/>
-<line x1="1400" y1="714" x2="1400" y2="771" stroke="#17324D" stroke-width="3"/>
-<line x1="1371" y1="734" x2="1429" y2="734" stroke="#17324D" stroke-width="3"/>
-<line x1="1400" y1="771" x2="1373" y2="807" stroke="#17324D" stroke-width="3"/>
-<line x1="1400" y1="771" x2="1427" y2="807" stroke="#17324D" stroke-width="3"/>
-<text x="1400" y="833.0" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17324D" text-anchor="middle">Secretaria /</text>
-<text x="1400" y="854.96" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#17324D" text-anchor="middle">Coordenação</text>
-<rect x="280" y="835" width="940" height="44" rx="10" fill="#FFF2CC" stroke="#C39A3B" stroke-width="1.2"/>
-<text x="750" y="862.0" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#233548" text-anchor="middle">As operações restritas pressupõem autenticação; regras de matrícula ficam configuráveis.</text>
+<text x="750.0" y="40.0" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111111" text-anchor="middle">Casos de uso do portal acadêmico</text>
+<text x="750.0" y="65.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#555555" text-anchor="middle">Responsável: Felipe Rafael</text>
+<rect x="230" y="145" width="1040" height="760" rx="20" fill="#FBFDFF" stroke="#222222" stroke-width="2.5"/>
+<text x="750" y="184.0" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111111" text-anchor="middle">Portal Acadêmico da Faculdade</text>
+<line x1="133" y1="500" x2="350" y2="425" stroke="#333333" stroke-width="1.8"/>
+<line x1="133" y1="500" x2="350" y2="585" stroke="#333333" stroke-width="1.8"/>
+<line x1="133" y1="500" x2="335" y2="745" stroke="#333333" stroke-width="1.8"/>
+<line x1="1367" y1="423" x2="1150" y2="425" stroke="#333333" stroke-width="1.8"/>
+<line x1="1367" y1="423" x2="1150" y2="585" stroke="#333333" stroke-width="1.8"/>
+<line x1="1367" y1="753" x2="1165" y2="745" stroke="#333333" stroke-width="1.8"/>
+<ellipse cx="750.0" cy="270.0" rx="135.0" ry="44.0" fill="#FFFFFF" stroke="#222222" stroke-width="2.2"/>
+<text x="750" y="277.14" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#111111" text-anchor="middle">Autenticar usuário</text>
+<ellipse cx="500.0" cy="425.0" rx="150.0" ry="46.0" fill="#FFFFFF" stroke="#222222" stroke-width="2.2"/>
+<text x="500" y="432.14" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#111111" text-anchor="middle">Realizar matrícula</text>
+<ellipse cx="500.0" cy="585.0" rx="150.0" ry="46.0" fill="#FFFFFF" stroke="#222222" stroke-width="2.2"/>
+<text x="500" y="592.14" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#111111" text-anchor="middle">Consultar notas</text>
+<ellipse cx="500.0" cy="745.0" rx="165.0" ry="46.0" fill="#FFFFFF" stroke="#222222" stroke-width="2.2"/>
+<text x="500" y="739.8" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#111111" text-anchor="middle">Consultar calendário</text>
+<text x="500" y="763.8" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#111111" text-anchor="middle">e avisos</text>
+<ellipse cx="1000.0" cy="425.0" rx="150.0" ry="46.0" fill="#FFFFFF" stroke="#222222" stroke-width="2.2"/>
+<text x="1000" y="432.14" font-family="Arial, sans-serif" font-size="21" font-weight="400" fill="#111111" text-anchor="middle">Consultar turmas</text>
+<ellipse cx="1000.0" cy="585.0" rx="150.0" ry="46.0" fill="#FFFFFF" stroke="#222222" stroke-width="2.2"/>
+<text x="1000" y="591.8" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#111111" text-anchor="middle">Lançar ou atualizar notas</text>
+<ellipse cx="1000.0" cy="745.0" rx="165.0" ry="46.0" fill="#FFFFFF" stroke="#222222" stroke-width="2.2"/>
+<text x="1000" y="740.32" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#111111" text-anchor="middle">Gerenciar turmas, disciplinas,</text>
+<text x="1000" y="761.9200000000001" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#111111" text-anchor="middle">calendário e avisos</text>
+<ellipse cx="100.0" cy="442.0" rx="17.0" ry="17.0" fill="#FFFFFF" stroke="#111111" stroke-width="3"/>
+<line x1="100" y1="459" x2="100" y2="516" stroke="#111111" stroke-width="3"/>
+<line x1="71" y1="479" x2="129" y2="479" stroke="#111111" stroke-width="3"/>
+<line x1="100" y1="516" x2="73" y2="552" stroke="#111111" stroke-width="3"/>
+<line x1="100" y1="516" x2="127" y2="552" stroke="#111111" stroke-width="3"/>
+<text x="100" y="578.0" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#111111" text-anchor="middle">Aluno</text>
+<ellipse cx="1400.0" cy="367.0" rx="17.0" ry="17.0" fill="#FFFFFF" stroke="#111111" stroke-width="3"/>
+<line x1="1400" y1="384" x2="1400" y2="441" stroke="#111111" stroke-width="3"/>
+<line x1="1371" y1="404" x2="1429" y2="404" stroke="#111111" stroke-width="3"/>
+<line x1="1400" y1="441" x2="1373" y2="477" stroke="#111111" stroke-width="3"/>
+<line x1="1400" y1="441" x2="1427" y2="477" stroke="#111111" stroke-width="3"/>
+<text x="1400" y="503.0" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#111111" text-anchor="middle">Professor</text>
+<ellipse cx="1400.0" cy="697.0" rx="17.0" ry="17.0" fill="#FFFFFF" stroke="#111111" stroke-width="3"/>
+<line x1="1400" y1="714" x2="1400" y2="771" stroke="#111111" stroke-width="3"/>
+<line x1="1371" y1="734" x2="1429" y2="734" stroke="#111111" stroke-width="3"/>
+<line x1="1400" y1="771" x2="1373" y2="807" stroke="#111111" stroke-width="3"/>
+<line x1="1400" y1="771" x2="1427" y2="807" stroke="#111111" stroke-width="3"/>
+<text x="1400" y="833.0" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#111111" text-anchor="middle">Secretaria /</text>
+<text x="1400" y="854.96" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#111111" text-anchor="middle">Coordenação</text>
 </svg>

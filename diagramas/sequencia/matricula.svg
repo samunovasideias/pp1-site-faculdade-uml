@@ -1,87 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1100" viewBox="0 0 1500 1100">
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980">
 <title>Sequência de matrícula</title>
-<desc>Responsável: Joab (joabfr4nca2018). Interações e validações para registrar uma matrícula acadêmica</desc>
-<rect x="0" y="0" width="1500" height="1100" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="0" y="0" width="1500" height="112" rx="0" fill="#17324D" stroke="#17324D" stroke-width="0"/>
-<text x="46" y="47.0" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#FFFFFF" text-anchor="start">Sequência de matrícula</text>
-<text x="46" y="81.0" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#D8E7F2" text-anchor="start">Interações e validações para registrar uma matrícula acadêmica</text>
-<rect x="1010" y="22" width="448" height="68" rx="14" fill="#244E68" stroke="#4B7891" stroke-width="1.5"/>
-<text x="1028" y="49.0" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="start">Responsável: Joab (joabfr4nca2018)</text>
-<text x="1028" y="73.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#D8E7F2" text-anchor="start">Trello #40</text>
-<text x="42" y="1080.0" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#5E7183" text-anchor="start">PP1 | Modelagem UML | Proposta baseada nos cartões do projeto</text>
-<rect x="30.0" y="145" width="210" height="64" rx="12" fill="#EAF4FF" stroke="#245B83" stroke-width="2"/>
-<text x="135" y="174.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#17324D" text-anchor="middle">Aluno</text>
-<line x1="135" y1="209" x2="135" y2="1035" stroke="#91A4B4" stroke-width="1.5" stroke-dasharray="6,6"/>
-<rect x="325.0" y="145" width="210" height="64" rx="12" fill="#EAF4FF" stroke="#245B83" stroke-width="2"/>
-<text x="430" y="174.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#17324D" text-anchor="middle">Portal web</text>
-<line x1="430" y1="209" x2="430" y2="1035" stroke="#91A4B4" stroke-width="1.5" stroke-dasharray="6,6"/>
-<rect x="620.0" y="145" width="210" height="64" rx="12" fill="#EAF4FF" stroke="#245B83" stroke-width="2"/>
-<text x="725" y="165.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#17324D" text-anchor="middle">Serviço de</text>
-<text x="725" y="183.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#17324D" text-anchor="middle">matrícula</text>
-<line x1="725" y1="209" x2="725" y2="1035" stroke="#91A4B4" stroke-width="1.5" stroke-dasharray="6,6"/>
-<rect x="915.0" y="145" width="210" height="64" rx="12" fill="#EAF4FF" stroke="#245B83" stroke-width="2"/>
-<text x="1020" y="165.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#17324D" text-anchor="middle">Validador</text>
-<text x="1020" y="183.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#17324D" text-anchor="middle">acadêmico</text>
-<line x1="1020" y1="209" x2="1020" y2="1035" stroke="#91A4B4" stroke-width="1.5" stroke-dasharray="6,6"/>
-<rect x="1210.0" y="145" width="210" height="64" rx="12" fill="#EAF4FF" stroke="#245B83" stroke-width="2"/>
-<text x="1315" y="165.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#17324D" text-anchor="middle">Repositório</text>
-<text x="1315" y="183.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#17324D" text-anchor="middle">acadêmico</text>
-<line x1="1315" y1="209" x2="1315" y2="1035" stroke="#91A4B4" stroke-width="1.5" stroke-dasharray="6,6"/>
-<line x1="135" y1="245" x2="430" y2="245" stroke="#245B83" stroke-width="2"/>
-<polygon points="430,245 416.0,239.0 416.0,251.0" fill="#245B83" stroke="#245B83" stroke-width="2" stroke-linejoin="round"/>
-<text x="282.5" y="236.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Solicitar matrícula no período</text>
-<line x1="430" y1="292" x2="725" y2="292" stroke="#245B83" stroke-width="2"/>
-<polygon points="725,292 711.0,286.0 711.0,298.0" fill="#245B83" stroke="#245B83" stroke-width="2" stroke-linejoin="round"/>
-<text x="577.5" y="283.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Listar ofertas disponíveis</text>
-<line x1="725" y1="339" x2="1315" y2="339" stroke="#245B83" stroke-width="2"/>
-<polygon points="1315,339 1301.0,333.0 1301.0,345.0" fill="#245B83" stroke="#245B83" stroke-width="2" stroke-linejoin="round"/>
-<text x="1020.0" y="330.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Consultar turmas, vagas e vínculos</text>
-<line x1="1315" y1="386" x2="725" y2="386" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
-<polygon points="725,386 739.0,392.0 739.0,380.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
-<text x="1020.0" y="377.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Retornar ofertas</text>
-<line x1="725" y1="433" x2="430" y2="433" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
-<polygon points="430,433 444.0,439.0 444.0,427.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
-<text x="577.5" y="424.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Apresentar opções</text>
-<line x1="430" y1="480" x2="135" y2="480" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
-<polygon points="135,480 149.0,486.0 149.0,474.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
-<text x="282.5" y="471.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Exibir disciplinas disponíveis</text>
-<line x1="135" y1="527" x2="430" y2="527" stroke="#245B83" stroke-width="2"/>
-<polygon points="430,527 416.0,521.0 416.0,533.0" fill="#245B83" stroke="#245B83" stroke-width="2" stroke-linejoin="round"/>
-<text x="282.5" y="518.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Confirmar seleção</text>
-<line x1="430" y1="574" x2="725" y2="574" stroke="#245B83" stroke-width="2"/>
-<polygon points="725,574 711.0,568.0 711.0,580.0" fill="#245B83" stroke="#245B83" stroke-width="2" stroke-linejoin="round"/>
-<text x="577.5" y="565.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Registrar solicitação</text>
-<line x1="725" y1="621" x2="1020" y2="621" stroke="#245B83" stroke-width="2"/>
-<polygon points="1020,621 1006.0,615.0 1006.0,627.0" fill="#245B83" stroke="#245B83" stroke-width="2" stroke-linejoin="round"/>
-<text x="872.5" y="612.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Validar pré-requisitos, vagas e horários</text>
-<rect x="90" y="655" width="1370" height="395" rx="0" fill="none" stroke="#52697D" stroke-width="2"/>
-<rect x="90" y="655" width="55" height="30" rx="0" fill="#EAF4FF" stroke="#52697D" stroke-width="1.5"/>
-<text x="117" y="676.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#17324D" text-anchor="middle">alt</text>
-<text x="165" y="678.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#5E7183" text-anchor="start">[seleção válida]</text>
-<line x1="1020" y1="715" x2="725" y2="715" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
-<polygon points="725,715 739.0,721.0 739.0,709.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
-<text x="872.5" y="706.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Seleção válida</text>
-<line x1="725" y1="760" x2="1315" y2="760" stroke="#245B83" stroke-width="2"/>
-<polygon points="1315,760 1301.0,754.0 1301.0,766.0" fill="#245B83" stroke="#245B83" stroke-width="2" stroke-linejoin="round"/>
-<text x="1020.0" y="751.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Gravar matrícula</text>
-<line x1="1315" y1="805" x2="725" y2="805" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
-<polygon points="725,805 739.0,811.0 739.0,799.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
-<text x="1020.0" y="796.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Retornar protocolo</text>
-<line x1="725" y1="850" x2="430" y2="850" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
-<polygon points="430,850 444.0,856.0 444.0,844.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
-<text x="577.5" y="841.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Confirmar matrícula</text>
-<line x1="430" y1="895" x2="135" y2="895" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
-<polygon points="135,895 149.0,901.0 149.0,889.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
-<text x="282.5" y="886.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Exibir protocolo</text>
-<line x1="90" y1="920" x2="1460" y2="920" stroke="#52697D" stroke-width="1.5" stroke-dasharray="6,5"/>
-<text x="165" y="945.0" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#5E7183" text-anchor="start">[há pendências]</text>
-<line x1="1020" y1="965" x2="725" y2="965" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
-<polygon points="725,965 739.0,971.0 739.0,959.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
-<text x="872.5" y="956.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Retornar regras não atendidas</text>
-<line x1="725" y1="1000" x2="430" y2="1000" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
-<polygon points="430,1000 444.0,1006.0 444.0,994.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
-<text x="577.5" y="991.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Informar motivos</text>
-<line x1="430" y1="1035" x2="135" y2="1035" stroke="#0F766E" stroke-width="2" stroke-dasharray="7,5"/>
-<polygon points="135,1035 149.0,1041.0 149.0,1029.0" fill="#0F766E" stroke="#0F766E" stroke-width="2" stroke-linejoin="round"/>
-<text x="282.5" y="1026.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#233548" text-anchor="middle">Exibir pendências</text>
+<desc>Responsável: Joab. </desc>
+<rect x="0" y="0" width="1500" height="980" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="750.0" y="40.0" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111111" text-anchor="middle">Sequência de matrícula</text>
+<text x="750.0" y="65.0" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#555555" text-anchor="middle">Responsável: Joab</text>
+<rect x="30.0" y="145" width="210" height="64" rx="4" fill="#FFFFFF" stroke="#222222" stroke-width="1.5"/>
+<text x="135" y="174.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111111" text-anchor="middle">Aluno</text>
+<line x1="135" y1="209" x2="135" y2="935" stroke="#777777" stroke-width="1" stroke-dasharray="5,5"/>
+<rect x="325.0" y="145" width="210" height="64" rx="4" fill="#FFFFFF" stroke="#222222" stroke-width="1.5"/>
+<text x="430" y="174.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111111" text-anchor="middle">Portal web</text>
+<line x1="430" y1="209" x2="430" y2="935" stroke="#777777" stroke-width="1" stroke-dasharray="5,5"/>
+<rect x="620.0" y="145" width="210" height="64" rx="4" fill="#FFFFFF" stroke="#222222" stroke-width="1.5"/>
+<text x="725" y="165.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111111" text-anchor="middle">Serviço de</text>
+<text x="725" y="183.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111111" text-anchor="middle">matrícula</text>
+<line x1="725" y1="209" x2="725" y2="935" stroke="#777777" stroke-width="1" stroke-dasharray="5,5"/>
+<rect x="915.0" y="145" width="210" height="64" rx="4" fill="#FFFFFF" stroke="#222222" stroke-width="1.5"/>
+<text x="1020" y="165.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111111" text-anchor="middle">Validador</text>
+<text x="1020" y="183.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111111" text-anchor="middle">acadêmico</text>
+<line x1="1020" y1="209" x2="1020" y2="935" stroke="#777777" stroke-width="1" stroke-dasharray="5,5"/>
+<rect x="1210.0" y="145" width="210" height="64" rx="4" fill="#FFFFFF" stroke="#222222" stroke-width="1.5"/>
+<text x="1315" y="165.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111111" text-anchor="middle">Repositório</text>
+<text x="1315" y="183.0" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111111" text-anchor="middle">acadêmico</text>
+<line x1="1315" y1="209" x2="1315" y2="935" stroke="#777777" stroke-width="1" stroke-dasharray="5,5"/>
+<line x1="135" y1="245" x2="430" y2="245" stroke="#222222" stroke-width="2"/>
+<polygon points="430,245 416.0,239.0 416.0,251.0" fill="#222222" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<text x="282.5" y="236.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle">Selecionar período e disciplinas</text>
+<line x1="430" y1="292" x2="725" y2="292" stroke="#222222" stroke-width="2"/>
+<polygon points="725,292 711.0,286.0 711.0,298.0" fill="#222222" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<text x="577.5" y="283.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle">Listar ofertas disponíveis</text>
+<line x1="725" y1="339" x2="1315" y2="339" stroke="#222222" stroke-width="2"/>
+<polygon points="1315,339 1301.0,333.0 1301.0,345.0" fill="#222222" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<text x="1020.0" y="330.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle">Consultar turmas e vagas</text>
+<line x1="1315" y1="386" x2="725" y2="386" stroke="#222222" stroke-width="2" stroke-dasharray="7,5"/>
+<polygon points="725,386 739.0,392.0 739.0,380.0" fill="#222222" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<text x="1020.0" y="377.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle">Retornar ofertas</text>
+<line x1="725" y1="433" x2="430" y2="433" stroke="#222222" stroke-width="2" stroke-dasharray="7,5"/>
+<polygon points="430,433 444.0,439.0 444.0,427.0" fill="#222222" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<text x="577.5" y="424.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle">Exibir opções</text>
+<line x1="430" y1="480" x2="135" y2="480" stroke="#222222" stroke-width="2" stroke-dasharray="7,5"/>
+<polygon points="135,480 149.0,486.0 149.0,474.0" fill="#222222" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<text x="282.5" y="471.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle">Exibir disciplinas disponíveis</text>
+<line x1="135" y1="527" x2="430" y2="527" stroke="#222222" stroke-width="2"/>
+<polygon points="430,527 416.0,521.0 416.0,533.0" fill="#222222" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<text x="282.5" y="518.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle">Confirmar seleção</text>
+<line x1="430" y1="574" x2="725" y2="574" stroke="#222222" stroke-width="2"/>
+<polygon points="725,574 711.0,568.0 711.0,580.0" fill="#222222" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<text x="577.5" y="565.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle">Enviar solicitação</text>
+<line x1="725" y1="621" x2="1020" y2="621" stroke="#222222" stroke-width="2"/>
+<polygon points="1020,621 1006.0,615.0 1006.0,627.0" fill="#222222" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<text x="872.5" y="612.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle">Validar pré-requisitos, vagas e horários</text>
+<line x1="1020" y1="668" x2="725" y2="668" stroke="#222222" stroke-width="2" stroke-dasharray="7,5"/>
+<polygon points="725,668 739.0,674.0 739.0,662.0" fill="#222222" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<text x="872.5" y="659.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle">Validação aprovada</text>
+<line x1="725" y1="715" x2="1315" y2="715" stroke="#222222" stroke-width="2"/>
+<polygon points="1315,715 1301.0,709.0 1301.0,721.0" fill="#222222" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<text x="1020.0" y="706.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle">Registrar matrícula</text>
+<line x1="1315" y1="762" x2="725" y2="762" stroke="#222222" stroke-width="2" stroke-dasharray="7,5"/>
+<polygon points="725,762 739.0,768.0 739.0,756.0" fill="#222222" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<text x="1020.0" y="753.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle">Gerar protocolo</text>
+<line x1="725" y1="809" x2="430" y2="809" stroke="#222222" stroke-width="2" stroke-dasharray="7,5"/>
+<polygon points="430,809 444.0,815.0 444.0,803.0" fill="#222222" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<text x="577.5" y="800.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle">Confirmar matrícula</text>
+<line x1="430" y1="856" x2="135" y2="856" stroke="#222222" stroke-width="2" stroke-dasharray="7,5"/>
+<polygon points="135,856 149.0,862.0 149.0,850.0" fill="#222222" stroke="#222222" stroke-width="2" stroke-linejoin="round"/>
+<text x="282.5" y="847.0" font-family="Arial, sans-serif" font-size="15" font-weight="400" fill="#111111" text-anchor="middle">Exibir protocolo</text>
 </svg>
