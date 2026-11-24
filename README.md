@@ -27,6 +27,8 @@ As sequências mostram o fluxo principal. Pré-requisitos, vagas, conflitos de h
 
 ## Evolução do Kanban
 
+Veja a [reconstrução das discussões por ciclo](discussoes-por-ciclo.md), baseada nos cartões dos prints.
+
 Os arquivos `prints/etapa-01.png` a `etapa-04.png` registram a fase de modelagem. As datas e semanas desses quatro registros não aparecem nas imagens.
 
 A pasta [`prints/simulacao/`](prints/simulacao/) reúne os registros da segunda fase, que **simula** a construção do portal; os cartões não comprovam implementação real:
@@ -44,4 +46,4 @@ O material é uma proposta de apresentação e modelagem; as regras acadêmicas 
 
 ## Componentes e telas
 
-O arquivo editável [telas-e-servicos.drawio](diagramas/componentes/telas-e-servicos.drawio), feito no draw.io, tem uma versão em [PNG](diagramas/componentes/telas-e-servicos.png) para visualização rápida. As telas de acesso, aluno, professor e secretaria utilizam serviços de autenticação e serviços acadêmicos, que dependem de um repositório. A imagem descreve uma arquitetura proposta, não uma implementação comprovada. O PDF original mantém os cinco diagramas de modelagem.
+O arquivo editável [telas-e-servicos.drawio](diagramas/componentes/telas-e-servicos.drawio) e sua versão em [PNG](diagramas/componentes/telas-e-servicos.png) são um esquema simplificado da arquitetura proposta. A imagem ainda precisa de ajustes para ser apresentada como diagrama de componentes UML: identificação dos componentes e notação de dependência. O PDF original mantém os cinco diagramas de modelagem.
