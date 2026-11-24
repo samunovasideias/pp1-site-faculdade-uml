@@ -44,4 +44,4 @@ O material é uma proposta de apresentação e modelagem; as regras acadêmicas 
 
 ## Componentes e telas
 
-O [diagrama de componentes e telas](diagramas/componentes/telas-e-servicos.png) apresenta uma proposta para a segunda fase simulada. As telas de acesso, aluno, professor e secretaria utilizariam serviços de autenticação e serviços acadêmicos, que dependem de um repositório. A imagem descreve uma arquitetura proposta, não uma implementação comprovada. O PDF original mantém os cinco diagramas de modelagem.
+O arquivo editável [telas-e-servicos.drawio](diagramas/componentes/telas-e-servicos.drawio), feito no draw.io, tem uma versão em [PNG](diagramas/componentes/telas-e-servicos.png) para visualização rápida. As telas de acesso, aluno, professor e secretaria utilizam serviços de autenticação e serviços acadêmicos, que dependem de um repositório. A imagem descreve uma arquitetura proposta, não uma implementação comprovada. O PDF original mantém os cinco diagramas de modelagem.
