@@ -41,3 +41,7 @@ A pasta [`prints/simulacao/`](prints/simulacao/) reúne os registros da segunda 
 No Kanban, Backlog reúne atividades previstas, Doing mostra trabalho em andamento, Review indica revisão e Done reúne atividades concluídas. Na simulação, cada cartão recebeu um único responsável; as pessoas variaram conforme a atividade. João e Uyara são professores e não foram responsáveis pelas novas atividades.
 
 O material é uma proposta de apresentação e modelagem; as regras acadêmicas devem ser validadas antes de implementar o sistema.
+
+## Componentes e telas
+
+O [diagrama de componentes e telas](diagramas/componentes/telas-e-servicos.png) apresenta uma proposta para a segunda fase simulada. As telas de acesso, aluno, professor e secretaria utilizariam serviços de autenticação e serviços acadêmicos, que dependem de um repositório. A imagem descreve uma arquitetura proposta, não uma implementação comprovada. O PDF original mantém os cinco diagramas de modelagem.
