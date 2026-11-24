@@ -46,4 +46,4 @@ O material é uma proposta de apresentação e modelagem; as regras acadêmicas 
 
 ## Componentes e telas
 
-O arquivo editável [telas-e-servicos.drawio](diagramas/componentes/telas-e-servicos.drawio) e sua versão em [PNG](diagramas/componentes/telas-e-servicos.png) são um esquema simplificado da arquitetura proposta. A imagem ainda precisa de ajustes para ser apresentada como diagrama de componentes UML: identificação dos componentes e notação de dependência. O PDF original mantém os cinco diagramas de modelagem.
+O arquivo editável [telas-e-servicos.drawio](diagramas/componentes/telas-e-servicos.drawio) e sua versão em [PNG](diagramas/componentes/telas-e-servicos.png) mostram os componentes propostos e suas dependências UML. O PDF original mantém os cinco diagramas de modelagem.
