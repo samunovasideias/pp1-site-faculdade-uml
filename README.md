@@ -21,7 +21,7 @@ Diagramas simples do portal acadêmico, separados por tipo. Os arquivos `.drawio
 - `diagramas/sequencia/matricula.drawio`, `consulta-notas.drawio` e os respectivos PNGs - diagramas de sequência.
 - `prints/` - quatro capturas do quadro Trello em ordem das etapas.
 - `output/pdf/pp1-diagramas-uml.pdf` - versão consolidada com os cinco diagramas, pronta para abrir ou imprimir.
-- [Roteiro de apresentação do grupo](output/pdf/pp1-roteiro-apresentacao.pdf) - PDF único com as falas dos cinco integrantes, os diagramas de apoio e o cronograma de 33 minutos.
+- [Guia de apresentação do grupo](output/pdf/pp1-roteiro-apresentacao.pdf) - explicações por integrante, diagramas de apoio e evolução semanal no Trello.
 
 Os PNGs abrem diretamente nos visualizadores de imagem comuns. O PDF abre nos leitores disponíveis em diferentes sistemas e dispositivos. Os arquivos `.drawio` abrem no site app.diagrams.net ou no aplicativo draw.io para computador.
 
