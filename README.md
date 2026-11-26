@@ -18,6 +18,8 @@ Diagramas simples do portal acadêmico, separados por tipo. Os arquivos `.drawio
 
 Samuel é o responsável pelos casos de uso ampliados. Veja [perfis e generalização](diagramas/casos-de-uso/perfis-e-generalizacao.drawio) ou [relações na matrícula](diagramas/casos-de-uso/matricula-include-extend.drawio) no draw.io. Os dois desenhos também estão disponíveis em [PNG de perfis](diagramas/casos-de-uso/perfis-e-generalizacao.png) e [PNG de matrícula](diagramas/casos-de-uso/matricula-include-extend.png).
 
+A [apresentação em PowerPoint](output/apresentacao/PP1-casos-de-uso-ampliados.pptx) inclui os dois novos slides após a visão geral de casos de uso.
+
 - `diagramas/casos-de-uso/casos-de-uso-portal.drawio` e `.png` - casos de uso do portal acadêmico.
 - `diagramas/classes/classes.drawio` e `modelo-de-dominio.png` - modelo de classes e domínio.
 - `diagramas/atividades/matricula.drawio` e `.png` - fluxo de matrícula.
