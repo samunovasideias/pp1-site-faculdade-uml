@@ -34,7 +34,7 @@ Os PNGs abrem diretamente nos visualizadores de imagem comuns. O PDF abre nos le
 
 As sequências mostram o fluxo principal. Pré-requisitos, vagas, conflitos de horário e o perfil da Secretaria/Coordenação devem ser conferidos com o enunciado e com o grupo.
 
-O diagrama de classes é um modelo conceitual inicial. As associações ainda não exibem multiplicidades, e a posição de algumas linhas na versão draw.io difere do PNG. Antes da entrega final, o grupo deve confirmar as regras e alinhar as duas versões.
+O diagrama de classes é um modelo conceitual inicial. Ele representa a matrícula registrada. A solicitação pendente, a decisão da secretaria e as multiplicidades das associações ainda precisam ser detalhadas no modelo de dados. A posição de algumas linhas na versão draw.io difere do PNG.
 
 ## Evolução do Kanban
 
