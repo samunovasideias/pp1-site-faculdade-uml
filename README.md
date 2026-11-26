@@ -18,7 +18,7 @@ Diagramas simples do portal acadêmico, separados por tipo. Os arquivos `.drawio
 
 Samuel é o responsável pelos casos de uso ampliados. Veja [perfis e generalização](diagramas/casos-de-uso/perfis-e-generalizacao.drawio) ou [relações na matrícula](diagramas/casos-de-uso/matricula-include-extend.drawio) no draw.io. Os dois desenhos também estão disponíveis em [PNG de perfis](diagramas/casos-de-uso/perfis-e-generalizacao.png) e [PNG de matrícula](diagramas/casos-de-uso/matricula-include-extend.png).
 
-A apresentação detalha a herança entre os atores, as ações por perfil e as relações na matrícula. Os 23 slides estão disponíveis em [PDF](output/apresentacao/PP1-casos-de-uso-ampliados.pdf) e [PowerPoint editável](output/apresentacao/PP1-casos-de-uso-ampliados.pptx).
+A apresentação reúne as UMLs, os quatro registros de modelagem e as cinco semanas da simulação no Trello. Os 27 slides estão disponíveis em [PDF](output/apresentacao/PP1-casos-de-uso-ampliados.pdf) e [PowerPoint editável](output/apresentacao/PP1-casos-de-uso-ampliados.pptx).
 
 No [diagrama de casos de uso compartilhados](diagramas/casos-de-uso/casos-de-uso-colaborativos.drawio), Aluno e Secretaria acompanham o pedido de matrícula. O aluno envia o pedido e a secretaria verifica requisitos e vagas para aprovar ou indeferir. O portal registra a matrícula e gera o protocolo após a aprovação. Professor e Secretaria compartilham a consulta de turmas.
 
