@@ -20,6 +20,8 @@ Samuel é o responsável pelos casos de uso ampliados. Veja [perfis e generaliza
 
 A [apresentação em PowerPoint](output/apresentacao/PP1-casos-de-uso-ampliados.pptx) detalha a herança entre os atores, as ações por perfil e as relações na matrícula após a visão geral de casos de uso.
 
+No [diagrama de casos de uso compartilhados](diagramas/casos-de-uso/casos-de-uso-colaborativos.drawio), Aluno e Secretaria acompanham o pedido de matrícula. O aluno envia o pedido e a secretaria verifica requisitos e vagas para aprovar ou indeferir. O portal registra a matrícula e gera o protocolo após a aprovação. Professor e Secretaria compartilham a consulta de turmas.
+
 - `diagramas/casos-de-uso/casos-de-uso-portal.drawio` e `.png` - casos de uso do portal acadêmico.
 - `diagramas/classes/classes.drawio` e `modelo-de-dominio.png` - modelo de classes e domínio.
 - `diagramas/atividades/matricula.drawio` e `.png` - fluxo de matrícula.
