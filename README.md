@@ -7,6 +7,7 @@ Diagramas simples do portal acadêmico, separados por tipo. Os arquivos `.drawio
 | Diagrama | Responsável |
 |---|---|
 | Casos de uso | Felipe Rafael |
+| Casos de uso ampliados | Samuel |
 | Classes e domínio | Andrei Albuquerque |
 | Atividade de matrícula | Samuel |
 | Sequência de matrícula | Joab |
@@ -14,6 +15,8 @@ Diagramas simples do portal acadêmico, separados por tipo. Os arquivos `.drawio
 | Componentes e telas | Felipe Rafael |
 
 ## Diagramas draw.io, PNG e PDF
+
+Samuel é o responsável pelos casos de uso ampliados. Veja [perfis e generalização](diagramas/casos-de-uso/perfis-e-generalizacao.drawio) ou [relações na matrícula](diagramas/casos-de-uso/matricula-include-extend.drawio) no draw.io. Os dois desenhos também estão disponíveis em [PNG de perfis](diagramas/casos-de-uso/perfis-e-generalizacao.png) e [PNG de matrícula](diagramas/casos-de-uso/matricula-include-extend.png).
 
 - `diagramas/casos-de-uso/casos-de-uso-portal.drawio` e `.png` - casos de uso do portal acadêmico.
 - `diagramas/classes/classes.drawio` e `modelo-de-dominio.png` - modelo de classes e domínio.
