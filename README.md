@@ -11,6 +11,7 @@ Diagramas simples do portal acadêmico, separados por tipo. Os arquivos `.drawio
 | Atividade de matrícula | Samuel |
 | Sequência de matrícula | Joab |
 | Sequência de consulta de notas | Pedro Henrique Almeida Durães |
+| Componentes e telas | Felipe Rafael |
 
 ## Diagramas draw.io, PNG e PDF
 
@@ -20,10 +21,13 @@ Diagramas simples do portal acadêmico, separados por tipo. Os arquivos `.drawio
 - `diagramas/sequencia/matricula.drawio`, `consulta-notas.drawio` e os respectivos PNGs - diagramas de sequência.
 - `prints/` - quatro capturas do quadro Trello em ordem das etapas.
 - `output/pdf/pp1-diagramas-uml.pdf` - versão consolidada com os cinco diagramas, pronta para abrir ou imprimir.
+- [`output/pdf/roteiros/`](output/pdf/roteiros/) - roteiros individuais com funcionamento geral e os diagramas atribuídos.
 
 Os PNGs abrem diretamente nos visualizadores de imagem comuns. O PDF abre nos leitores disponíveis em diferentes sistemas e dispositivos. Os arquivos `.drawio` abrem no site app.diagrams.net ou no aplicativo draw.io para computador.
 
 As sequências mostram o fluxo principal. Pré-requisitos, vagas, conflitos de horário e o perfil da Secretaria/Coordenação devem ser conferidos com o enunciado e com o grupo.
+
+O diagrama de classes é um modelo conceitual inicial. As associações ainda não exibem multiplicidades, e a posição de algumas linhas na versão draw.io difere do PNG. Antes da entrega final, o grupo deve confirmar as regras e alinhar as duas versões.
 
 ## Evolução do Kanban
 
