@@ -34,7 +34,7 @@ Os PNGs abrem diretamente nos visualizadores de imagem comuns. O PDF abre nos le
 
 As sequências mostram o fluxo principal. Pré-requisitos, vagas, conflitos de horário e o perfil da Secretaria/Coordenação devem ser conferidos com o enunciado e com o grupo.
 
-O diagrama de classes é um modelo conceitual inicial. Ele representa a matrícula registrada. A solicitação pendente, a decisão da secretaria e as multiplicidades das associações ainda precisam ser detalhadas no modelo de dados. A posição de algumas linhas na versão draw.io difere do PNG.
+No modelo de classes, Aluno e Professor herdam nome e e-mail de Usuário. Aluno tem registro acadêmico e ano de ingresso. Professor tem registro funcional e área de atuação. O modelo representa a matrícula registrada. Ainda falta detalhar a solicitação pendente, a decisão da secretaria e as multiplicidades das associações.
 
 ## Evolução do Kanban
 
